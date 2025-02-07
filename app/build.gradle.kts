@@ -46,5 +46,5 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
-//    implementation ("com.github.anshuhexabrain:hexa-downloader:v1.0")
+//    implementation ("com.github.anshuhexabrain:hexa-downloader:v1.1")
 }
